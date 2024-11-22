@@ -1,0 +1,24 @@
+*
+{
+
+}
+body {
+	background-color: #ccc1a5;
+	color: #ccc1a5;
+}
+.container {
+	background-color: #b38e53b9;
+	text-align: center;
+	padding: 30px;
+	text-justify: auto;
+}
+
+.img-thumbnail {
+  border: 5px solid #6e5a45 ;
+}
+
+.div {
+	position: absolute;
+	values: bottom;
+	left attribute:0;
+}
